@@ -1,0 +1,9 @@
+export const MATCH_MAX_DISTANCE = 0.5;
+export const MATCH_MIN_GAP = 0.08;
+export const CONSENT_TTL_MS = 60_000;
+export const MAGIC_LINK_TTL_MS = 15 * 60_000;
+export const SESSION_TTL_MS = 30 * 24 * 60 * 60_000;
+export const MAX_IMAGE_BYTES = 2 * 1024 * 1024;
+export const MAX_LINKS = 8;
+export const DISPLAY_NAME_MIN = 1;
+export const DISPLAY_NAME_MAX = 32;
